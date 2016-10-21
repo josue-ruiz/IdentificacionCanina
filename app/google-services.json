@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1092581617010",
+    "firebase_url": "https://identificacioncanina-e863e.firebaseio.com",
+    "project_id": "identificacioncanina-e863e",
+    "storage_bucket": "identificacioncanina-e863e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092581617010:android:40a484db0ed2b898",
+        "android_client_info": {
+          "package_name": "com.identificacioncanina.identificacioncanina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092581617010-obv6lmlcpjdgl8f4vg11anjv02f0hhqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBljkKdOWy2Hgd7S10QJ8mm_DirWF1Vbz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
